@@ -32,5 +32,8 @@ Contributions are welcome! If you’d like to contribute:
 1. Fork this repository  
 2. Create a new branch (`feature-xyz`)  
 3. Commit your changes and push  
-4. Open a pull request  
+4. Open a pull request
+
+   Link to pdf:https://drive.google.com/file/d/1znRcEQ-mMiSbdMU6xbKOqmDzphS9qWH4/view?usp=drivesdk
+   
 
