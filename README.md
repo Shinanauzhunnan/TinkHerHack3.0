@@ -27,12 +27,6 @@ This project is an **Augmented Reality (AR)-powered interactive app** designed t
 - Use the AR feature to view its **360-degree 3D model**  
 - Zoom, rotate, and interact with the model for a better understanding  
 
-## 🤝 Contributing  
-Contributions are welcome! If you’d like to contribute:  
-1. Fork this repository  
-2. Create a new branch (`feature-xyz`)  
-3. Commit your changes and push  
-4. Open a pull request
 
    Link to pdf:https://drive.google.com/file/d/1znRcEQ-mMiSbdMU6xbKOqmDzphS9qWH4/view?usp=drivesdk
    Link to app:https://drive.google.com/file/d/1J80XIWMSdECJdxUr1FBvBVp3y8mXKSwK/view?usp=sharing
