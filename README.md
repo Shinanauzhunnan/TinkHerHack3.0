@@ -10,8 +10,8 @@ This project is an **Augmented Reality (AR)-powered interactive app** designed t
 - 🔹 **Open-Source & Scalable** – Developed using GitHub for collaboration  
 
 ## 🛠️ Tech Stack  
-- **Blender** – 3D model creation  
-- **WebAR (AR.js, 8thWall, or similar)** – Augmented Reality integration  
+- **Blender** – 3D model creation
+- 
 - **GitHub** – Version control and project management  
 
 ## 🚀 Getting Started  
